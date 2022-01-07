@@ -1,0 +1,27 @@
+[
+    {
+        
+        "isim": "Inception",
+        "Sure": "148",
+        "Tur": "Aksiyon",
+        "imdb": "8.8"
+    },
+    {
+        "isim": "Recep ivedik 6",
+        "Sure": "110",
+        "Tur": "Komedi",
+        "imdb": "2.8"
+    },
+    {
+        "isim": "Interstellar",
+        "Sure": "169",
+        "Tur": "Bilim Kurgu/Macera",
+        "imdb": "9.0"
+    },
+    {
+        "isim": "I am Legend",
+        "Sure": "101",
+        "Tur": "Bilim Kurgu/Korku",
+        "imdb": "7.2"
+    }
+]
